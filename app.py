@@ -18,7 +18,7 @@ COLORS = {"Died": "#D95D4A", "Survived": "#0F766E"}
 
 st.title("Titanic Survival Prediction App")
 
-st.image("data\\images.jpeg")
+st.image("data/images.jpeg")
 
 st.dataframe(df, hide_index=True)
 
